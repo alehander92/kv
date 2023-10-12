@@ -2,9 +2,9 @@ name:                kv
 version:             0.1.0.0
 github:              "githubuser/kv"
 license:             BSD-3-Clause
-author:              "Slavey Iliev, Alexander Ivanov"
+author:              "Alexander Ivanov"
 maintainer:          "alehander42@gmail.com"
-copyright:           "2023 Slavey Iliev, Alexander Ivanov"
+copyright:           "2023 Alexander Ivanov"
 
 extra-source-files:
 - README.md

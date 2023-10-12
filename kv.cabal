@@ -9,9 +9,9 @@ version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/alehander92/kv#readme>
 homepage:       https://github.com/githubuser/kv#readme
 bug-reports:    https://github.com/githubuser/kv/issues
-author:         Slavey Iliev, Alexander Ivanov
+author:         Alexander Ivanov
 maintainer:     alehander42@gmail.com
-copyright:      2023 Slavey Iliev, Alexander Ivanov
+copyright:      2023 Alexander Ivanov
 license:        BSD-3-Clause
 license-file:   LICENSE
 build-type:     Simple
