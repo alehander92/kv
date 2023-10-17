@@ -19,7 +19,33 @@ but still interesting to research if it appears useful
 * more advanced operations
 * many possible optimizations
 
+### build
 
+```bash
+stack build
+```
 
-  
+run with
+
+```bash
+stack run
+# or
+stack exec kv-exe
+# the binary is probably in bin/ in this path:
+stack path --local-install-root
+```
+
+### test
+
+tests are not yet implemented, but we should run:
+
+```bash
+stack test
+```
+
+### license
+
+BSD-3-Clause 
+
+(seems to be by default with stack)
 
